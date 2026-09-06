@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "JennaDer.github.io",
-    "section": "",
-    "text": "#Hello, world! Welcome to my Quarto website.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites. ## Python Data\n\nimport pandas as pd\n\ncourse_tools = pd.DataFrame({\n    \"Tool\": [\"Python\", \"PySpark\", \"Quarto\"],\n    \"Purpose\": [\"Data analysis\", \"Big data processing\", \"Reproducible publishing\"]\n})\n\ncourse_tools\n\n\n\n\n\n\n\n\nTool\nPurpose\n\n\n\n\n0\nPython\nData analysis\n\n\n1\nPySpark\nBig data processing\n\n\n2\nQuarto\nReproducible publishing"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "JennaDer.github.io",
+    "section": "",
+    "text": "Welcome to my Quarto website.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\nimport pandas as pd\n\ncourse_tools = pd.DataFrame({\n    \"Tool\": [\"Python\", \"PySpark\", \"Quarto\"],\n    \"Purpose\": [\"Data analysis\", \"Big data processing\", \"Reproducible publishing\"]\n})\n\ncourse_tools\n\n\n\n\n\n\n\n\nTool\nPurpose\n\n\n\n\n0\nPython\nData analysis\n\n\n1\nPySpark\nBig data processing\n\n\n2\nQuarto\nReproducible publishing"
+  },
+  {
+    "objectID": "index.html#python-data",
+    "href": "index.html#python-data",
+    "title": "JennaDer.github.io",
+    "section": "",
+    "text": "import pandas as pd\n\ncourse_tools = pd.DataFrame({\n    \"Tool\": [\"Python\", \"PySpark\", \"Quarto\"],\n    \"Purpose\": [\"Data analysis\", \"Big data processing\", \"Reproducible publishing\"]\n})\n\ncourse_tools\n\n\n\n\n\n\n\n\nTool\nPurpose\n\n\n\n\n0\nPython\nData analysis\n\n\n1\nPySpark\nBig data processing\n\n\n2\nQuarto\nReproducible publishing"
   }
 ]
