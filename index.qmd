@@ -7,7 +7,7 @@ format:
     theme: journal
     toc: true
 ---
-#Hello, world!
+# Hello, world!
 Welcome to my Quarto website. 
 
 
@@ -15,6 +15,7 @@ Welcome to my Quarto website.
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
 ## Python Data 
 
 ```{python}
