@@ -1,0 +1,17 @@
+---
+title: "JennaDer.github.io"
+author: "Jenna DeRosa"
+date: "2026-09-06"
+format: 
+  html:
+    theme: journal
+    toc: true
+---
+#Hello, world!
+Welcome to my Quarto website. 
+
+
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
