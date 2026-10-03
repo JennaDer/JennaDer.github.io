@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://JennaDer.github.io/about.html</loc>
-    <lastmod>2026-09-06T15:30:57.314Z</lastmod>
+    <loc>https://JennaDer.github.io/contact.html</loc>
+    <lastmod>2026-10-03T21:02:43.701Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JennaDer.github.io/projects.html</loc>
+    <lastmod>2026-10-03T21:02:43.701Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JennaDer.github.io/cv.html</loc>
+    <lastmod>2026-10-03T21:02:43.701Z</lastmod>
   </url>
   <url>
     <loc>https://JennaDer.github.io/index.html</loc>
-    <lastmod>2026-09-06T15:30:57.314Z</lastmod>
+    <lastmod>2026-10-03T21:02:43.701Z</lastmod>
   </url>
 </urlset>
