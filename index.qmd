@@ -1,5 +1,42 @@
 ---
 title: "Jenna DeRosa"
+subtitle: "Global Distribution Sourcing Manager | MS Supply Chain Management, Data Analytics"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jenna-derosa/
+    - icon: github
+      text: GitHub
+      href: https://github.com/JennaDer
 ---
 
-Welcome to my portfolio. More coming soon.
+Supply chains run on two things: relationships and data. I have spent five years building the first, and I am finishing a master's degree to master the second.
+
+## What I Do
+
+I lead global distribution sourcing at Prodrive Technologies, shaping how a high-tech manufacturer works with its distribution partners around the world. I set sourcing strategy, manage the supplier relationships behind it, and design the processes that make strategic sourcing repeatable.
+
+Semiconductors are among the most complex products in the world to make and to move. A single component can pass through several countries before it reaches a production line, lead times are long, and capacity cannot be added quickly. Two forces have reshaped my role in recent years. The first is artificial intelligence: demand for AI hardware has redrawn the market, shifting where capacity goes and changing availability and pricing for everyone else. The second is geopolitics: trade policy, export controls, and tariffs now influence sourcing decisions as much as price and lead time do. Sourcing in this environment means planning for a market that does not stand still.
+
+## Where Supply Chain Meets Data
+
+The best supply chain decisions I have seen were made by people who understood both the business and the systems that record it. The weakest were driven by metrics that looked precise and measured the wrong thing.
+
+That is what led me to a Master of Science in Supply Chain Management with a concentration in Data Analytics at Boston University, which I complete in December 2026. My goal was never to become an engineer. It was to become fluent enough to stand between the people who build data tools and the people who depend on them: to follow how information moves through SAP and out to suppliers, and to design KPIs that reflect how an operation really runs.
+
+## From Fashion to Semiconductors
+
+My background is less conventional than my job title suggests. I studied Fashion Business Management at the Fashion Institute of Technology in New York, an industry where supply chains are global, fast, and unforgiving. I started in purchasing at W.B. Mason, entered the semiconductor market as a buyer at Fusion Worldwide, and then joined Prodrive Technologies, in a role that took me from the United States to the Netherlands.
+
+## What I Am Working Toward
+
+Strategic supply chain development and process design are the work I enjoy most. I am building toward leading the teams that do it.
+
+## Outside of Work
+
+I am fascinated by the history of global trade and how centuries of routes, ports, and agreements shaped the supply chains we manage today. It is a useful perspective to have when trade policy is rewriting them again. I share my home with Paxton, a miniature Australian shepherd who has no interest in any of it.
