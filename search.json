@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Prodrive Technologies | Professional | In progress\nObjective. Consolidate distribution procurement, currently managed by four regional procurement groups, into a single centralized function operating through one plant.\nApproach. I am developing the sourcing strategy and the operating model that supports it. The work covers the commercial case for consolidation, the redesign of procurement processes and decision rights, and alignment with regional stakeholders and distribution partners.\nExpected outcome. Greater economies of scale, consolidated purchasing power with distribution partners, and a consistent global approach to distribution sourcing.\nCompetencies: sourcing strategy, organizational and process design, supplier relationship management, stakeholder alignment"
+  },
+  {
+    "objectID": "projects.html#centralized-distribution-sourcing-strategy",
+    "href": "projects.html#centralized-distribution-sourcing-strategy",
+    "title": "Projects",
+    "section": "",
+    "text": "Prodrive Technologies | Professional | In progress\nObjective. Consolidate distribution procurement, currently managed by four regional procurement groups, into a single centralized function operating through one plant.\nApproach. I am developing the sourcing strategy and the operating model that supports it. The work covers the commercial case for consolidation, the redesign of procurement processes and decision rights, and alignment with regional stakeholders and distribution partners.\nExpected outcome. Greater economies of scale, consolidated purchasing power with distribution partners, and a consistent global approach to distribution sourcing.\nCompetencies: sourcing strategy, organizational and process design, supplier relationship management, stakeholder alignment"
+  },
+  {
+    "objectID": "projects.html#analytics-job-market-and-skill-gap-analysis",
+    "href": "projects.html#analytics-job-market-and-skill-gap-analysis",
+    "title": "Projects",
+    "section": " Analytics Job Market and Skill Gap Analysis",
+    "text": "Analytics Job Market and Skill Gap Analysis\nBoston University, AD 688 | Academic team project | Python, PySpark, scikit-learn, Quarto\nObjective. Evaluate career opportunities for analytics professionals in the computer systems design industry and identify the skills that candidates should prioritize.\nApproach. From a source dataset of more than 500,000 job postings, the team constructed an analytical panel of 1,790 recent analytics roles. We measured employer demand by skill, benchmarked that demand against the team’s own proficiency to produce a prioritized development plan, and built classification models to identify the factors associated with higher-paying roles. When the initial industry selection produced too few postings for reliable analysis, we revised the scope and documented the change.\n\n\n\nMost requested skills in analytics job postings.\n\n\nOutcome.\n\nPython and SQL each appear in more than 60% of postings, well ahead of all other skills.\nThe median advertised salary was $151,475, and 41% of postings offered remote or hybrid work.\nJob title alone identified higher-paying postings with 59% accuracy. A model incorporating skills, location, and education reached 78%.\nThe skills most strongly associated with higher pay were not those most frequently requested.\n\nView the project on GitHub"
+  },
+  {
+    "objectID": "projects.html#new-york-city-real-estate-market-analysis",
+    "href": "projects.html#new-york-city-real-estate-market-analysis",
+    "title": "Projects",
+    "section": " New York City Real Estate Market Analysis",
+    "text": "New York City Real Estate Market Analysis\nBoston University | Academic team project | Python, Power BI\nObjective. Identify and explain residential market trends across New York City neighborhoods.\nApproach. The team prepared and analyzed the data in Python and presented the results through interactive Power BI dashboards.\nOutcome.\n\nA group of neighborhoods experienced sharp increases in residential prices.\nA second group tracked closely with industrial investment in the surrounding area.\nA third group continued to decline in value while population growth exceeded the capacity of the local housing stock."
+  },
+  {
+    "objectID": "projects.html#in-house-brewery-business-case",
+    "href": "projects.html#in-house-brewery-business-case",
+    "title": "Projects",
+    "section": " In-House Brewery Business Case",
+    "text": "In-House Brewery Business Case\nBoston University | Academic team project | Business case development\nObjective. Assess whether a pub should bring brewing in house to produce its own line of IPAs.\nApproach. Over one semester, the team developed an end-to-end business case covering market positioning, marketing strategy, and the operational requirements of in-house production.\nOutcome. The analysis supported the investment. Initial losses narrowed over the first several years, and in-house production strengthened the pub’s community presence and supported longer-term market development.\nCompetencies: business case development, operations planning, marketing strategy"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jenna DeRosa",
