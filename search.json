@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "The best way to reach me is by email or LinkedIn. I am based in the Netherlands and work with teams and partners across time zones, so I am glad to arrange a call at a time that suits you.\n Email: jennaderosa.ma@gmail.com\n LinkedIn: linkedin.com/in/jenna-derosa\n GitHub: github.com/JennaDer\n Location: The Netherlands\nSend me an email"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Prodrive Technologies | Professional | In progress\nObjective. Consolidate distribution procurement, currently managed by four regional procurement groups, into a single centralized function operating through one plant.\nApproach. I am developing the sourcing strategy and the operating model that supports it. The work covers the commercial case for consolidation, the redesign of procurement processes and decision rights, and alignment with regional stakeholders and distribution partners.\nExpected outcome. Greater economies of scale, consolidated purchasing power with distribution partners, and a consistent global approach to distribution sourcing.\nCompetencies: sourcing strategy, organizational and process design, supplier relationship management, stakeholder alignment"
-  },
-  {
-    "objectID": "projects.html#centralized-distribution-sourcing-strategy",
-    "href": "projects.html#centralized-distribution-sourcing-strategy",
-    "title": "Projects",
-    "section": "",
-    "text": "Prodrive Technologies | Professional | In progress\nObjective. Consolidate distribution procurement, currently managed by four regional procurement groups, into a single centralized function operating through one plant.\nApproach. I am developing the sourcing strategy and the operating model that supports it. The work covers the commercial case for consolidation, the redesign of procurement processes and decision rights, and alignment with regional stakeholders and distribution partners.\nExpected outcome. Greater economies of scale, consolidated purchasing power with distribution partners, and a consistent global approach to distribution sourcing.\nCompetencies: sourcing strategy, organizational and process design, supplier relationship management, stakeholder alignment"
-  },
-  {
-    "objectID": "projects.html#analytics-job-market-and-skill-gap-analysis",
-    "href": "projects.html#analytics-job-market-and-skill-gap-analysis",
-    "title": "Projects",
-    "section": " Analytics Job Market and Skill Gap Analysis",
-    "text": "Analytics Job Market and Skill Gap Analysis\nBoston University, AD 688 | Academic team project | Python, PySpark, scikit-learn, Quarto\nObjective. Evaluate career opportunities for analytics professionals in the computer systems design industry and identify the skills that candidates should prioritize.\nApproach. From a source dataset of more than 500,000 job postings, the team constructed an analytical panel of 1,790 recent analytics roles. We measured employer demand by skill, benchmarked that demand against the team’s own proficiency to produce a prioritized development plan, and built classification models to identify the factors associated with higher-paying roles. When the initial industry selection produced too few postings for reliable analysis, we revised the scope and documented the change.\n\n\n\nMost requested skills in analytics job postings.\n\n\nOutcome.\n\nPython and SQL each appear in more than 60% of postings, well ahead of all other skills.\nThe median advertised salary was $151,475, and 41% of postings offered remote or hybrid work.\nJob title alone identified higher-paying postings with 59% accuracy. A model incorporating skills, location, and education reached 78%.\nThe skills most strongly associated with higher pay were not those most frequently requested.\n\nView the project on GitHub"
-  },
-  {
-    "objectID": "projects.html#new-york-city-real-estate-market-analysis",
-    "href": "projects.html#new-york-city-real-estate-market-analysis",
-    "title": "Projects",
-    "section": " New York City Real Estate Market Analysis",
-    "text": "New York City Real Estate Market Analysis\nBoston University | Academic team project | Python, Power BI\nObjective. Identify and explain residential market trends across New York City neighborhoods.\nApproach. The team prepared and analyzed the data in Python and presented the results through interactive Power BI dashboards.\nOutcome.\n\nA group of neighborhoods experienced sharp increases in residential prices.\nA second group tracked closely with industrial investment in the surrounding area.\nA third group continued to decline in value while population growth exceeded the capacity of the local housing stock."
-  },
-  {
-    "objectID": "projects.html#in-house-brewery-business-case",
-    "href": "projects.html#in-house-brewery-business-case",
-    "title": "Projects",
-    "section": " In-House Brewery Business Case",
-    "text": "In-House Brewery Business Case\nBoston University | Academic team project | Business case development\nObjective. Assess whether a pub should bring brewing in house to produce its own line of IPAs.\nApproach. Over one semester, the team developed an end-to-end business case covering market positioning, marketing strategy, and the operational requirements of in-house production.\nOutcome. The analysis supported the investment. Initial losses narrowed over the first several years, and in-house production strengthened the pub’s community presence and supported longer-term market development.\nCompetencies: business case development, operations planning, marketing strategy"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Jenna DeRosa",
@@ -60,7 +18,7 @@
     "href": "cv.html#experience",
     "title": "Jenna DeRosa",
     "section": "Experience",
-    "text": "Experience\n\nProdrive Technologies | May 2023 – Present\nGlobal Distribution Sourcing Manager | Netherlands\n\nOwn global distribution sourcing strategy for semiconductor and electronic components across all regions. 120M+ USD annual spend, 100+ global partners, 4 regional procurement groups.\nLead the design of a centralized distribution model consolidating four regional procurement groups into one function, capturing economies of scale and purchasing power.\nDefine the operating model behind centralization: sourcing processes, decision rights, and regional stakeholder alignment.\nManage strategic relationships with global distribution partners and negotiate global terms.\nAdapt sourcing strategy to AI-driven shifts in component availability, allocation, and pricing.\nAssess the effect of trade policy, export controls, and tariffs on sourcing decisions and supplier selection.\nDesign sourcing KPIs grounded in how data moves through SAP and supplier systems, so reported performance reflects operations.\n\nCategory Manager | Boston, MA\n\nManaged more than $5 million in annual distribution spend, covering approximately 80% of US purchasing for production requirements.\nAchieved 8% (approximately $1M) in bill-of-materials savings within three months of taking over the account, through demand forecasting, cost analysis, and negotiation.\nServed as primary global contact for tariff impact analysis on semiconductors, raw materials, and end products; designed and maintained an HTS code database to evaluate current and projected tariff exposure.\nBuilt data capture frameworks to support allocation strategy and analysis of cost, price erosion, and supplier performance.\nOptimized $350K in uncategorized spend and eliminated 20 hours of manual work per week through cross-functional process improvements.\nLed annual business reviews with suppliers, measuring performance against KPIs and negotiating improved terms.\n\n\n\nFusion Worldwide | September 2022 – May 2023\nBuyer | Boston, MA\n\nManaged more than 100 vendor accounts and developed new supplier relationships to meet open-market demand during customer supply disruptions.\nAnalyzed supply trends for specific commodity groups through market research with global colleagues, suppliers, and manufacturers.\nSourced quotes for daily global customer demand and managed purchase orders, lead times, quality testing, and delivery schedules."
+    "text": "Experience\n\nProdrive Technologies | May 2023 – Present\nGlobal Distribution Sourcing Manager | Netherlands\n\nOwn distribution sourcing strategy across four regions (USA, Netherlands, Malaysia, China), managing a $120M annual spend package.\nLead the design of a centralized distribution model consolidating four regional procurement groups into one function, capturing economies of scale and purchasing power.\nDefine the operating model behind centralization: sourcing processes, decision rights, and regional stakeholder alignment.\nManage strategic relationships with global distribution partners and negotiate global terms.\nAdapt sourcing strategy to AI-driven shifts in component availability, allocation, and pricing.\nAssess the effect of trade policy, export controls, and tariffs on sourcing decisions and supplier selection.\nDesign sourcing KPIs grounded in how data moves through SAP and supplier systems, so reported performance reflects operations.\n\nCategory Manager | Boston, MA\n\nManaged more than $5 million in annual distribution spend, covering approximately 80% of US purchasing for production requirements.\nAchieved 8% (approximately $1M) in bill-of-materials savings within three months of taking over the account, through demand forecasting, cost analysis, and negotiation.\nServed as primary global contact for tariff impact analysis on semiconductors, raw materials, and end products; designed and maintained an HTS code database to evaluate current and projected tariff exposure.\nBuilt data capture frameworks to support allocation strategy and analysis of cost, price erosion, and supplier performance.\nOptimized $350K in uncategorized spend and eliminated 20 hours of manual work per week through cross-functional process improvements.\nLed annual business reviews with suppliers, measuring performance against KPIs and negotiating improved terms.\n\n\n\nFusion Worldwide | September 2022 – May 2023\nBuyer | Boston, MA\n\nManaged more than 100 vendor accounts and developed new supplier relationships to meet open-market demand during customer supply disruptions.\nAnalyzed supply trends for specific commodity groups through market research with global colleagues, suppliers, and manufacturers.\nSourced quotes for daily global customer demand and managed purchase orders, lead times, quality testing, and delivery schedules."
   },
   {
     "objectID": "cv.html#education",
@@ -75,47 +33,5 @@
     "title": "Jenna DeRosa",
     "section": "Skills",
     "text": "Skills\nSystems and analytics: SAP, Microsoft Excel (advanced), Power BI, Python, R, Quarto, data warehousing\nSourcing: strategic sourcing, supplier negotiation, category management, tariff and trade compliance analysis, demand forecasting, process design"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jenna DeRosa",
-    "section": "",
-    "text": "Supply chains run on two things: relationships and data. I have spent five years building the first, and I am finishing a master’s degree to master the second."
-  },
-  {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
-    "title": "Jenna DeRosa",
-    "section": "What I Do",
-    "text": "What I Do\nI lead global distribution sourcing at Prodrive Technologies, shaping how a high-tech manufacturer works with its distribution partners around the world. I set sourcing strategy, manage the supplier relationships behind it, and design the processes that make strategic sourcing repeatable.\nSemiconductors are among the most complex products in the world to make and to move. A single component can pass through several countries before it reaches a production line, lead times are long, and capacity cannot be added quickly. Two forces have reshaped my role in recent years. The first is artificial intelligence: demand for AI hardware has redrawn the market, shifting where capacity goes and changing availability and pricing for everyone else. The second is geopolitics: trade policy, export controls, and tariffs now influence sourcing decisions as much as price and lead time do. Sourcing in this environment means planning for a market that does not stand still."
-  },
-  {
-    "objectID": "index.html#where-supply-chain-meets-data",
-    "href": "index.html#where-supply-chain-meets-data",
-    "title": "Jenna DeRosa",
-    "section": "Where Supply Chain Meets Data",
-    "text": "Where Supply Chain Meets Data\nThe best supply chain decisions I have seen were made by people who understood both the business and the systems that record it. The weakest were driven by metrics that looked precise and measured the wrong thing.\nThat is what led me to a Master of Science in Supply Chain Management with a concentration in Data Analytics at Boston University, which I complete in December 2026. My goal was never to become an engineer. It was to become fluent enough to stand between the people who build data tools and the people who depend on them: to follow how information moves through SAP and out to suppliers, and to design KPIs that reflect how an operation really runs."
-  },
-  {
-    "objectID": "index.html#from-fashion-to-semiconductors",
-    "href": "index.html#from-fashion-to-semiconductors",
-    "title": "Jenna DeRosa",
-    "section": "From Fashion to Semiconductors",
-    "text": "From Fashion to Semiconductors\nMy background is less conventional than my job title suggests. I studied Fashion Business Management at the Fashion Institute of Technology in New York, an industry where supply chains are global, fast, and unforgiving. I started in purchasing at W.B. Mason, entered the semiconductor market as a buyer at Fusion Worldwide, and then joined Prodrive Technologies, in a role that took me from the United States to the Netherlands."
-  },
-  {
-    "objectID": "index.html#what-i-am-working-toward",
-    "href": "index.html#what-i-am-working-toward",
-    "title": "Jenna DeRosa",
-    "section": "What I Am Working Toward",
-    "text": "What I Am Working Toward\nStrategic supply chain development and process design are the work I enjoy most. I am building toward leading the teams that do it."
-  },
-  {
-    "objectID": "index.html#outside-of-work",
-    "href": "index.html#outside-of-work",
-    "title": "Jenna DeRosa",
-    "section": "Outside of Work",
-    "text": "Outside of Work\nI am fascinated by the history of global trade and how centuries of routes, ports, and agreements shaped the supply chains we manage today. It is a useful perspective to have when trade policy is rewriting them again. I share my home with Paxton, a miniature Australian shepherd who has no interest in any of it."
   }
 ]
