@@ -119,3 +119,38 @@
     });
   }
 })();
+
+// Links and chart viewer: open outside links and PDFs in a new tab, and show charts in a pop-up.
+(function () {
+  // 1. Outside links (GitHub, LinkedIn) and PDFs open in a new tab
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    var href = a.getAttribute('href');
+    var outside = /^https?:\/\//i.test(href) && a.hostname !== window.location.hostname;
+    var pdf = /\.pdf($|\?)/i.test(href);
+    if (outside || pdf) { a.target = '_blank'; a.rel = 'noopener'; }
+  });
+
+  // 2. Charts open in a pop-up on the same page
+  var links = document.querySelectorAll('.proj-gallery a');
+  if (!links.length) return;
+  var box = document.createElement('div');
+  box.className = 'lightbox';
+  box.innerHTML = '<button class="lightbox-close" aria-label="Close">&times;</button><figure><img alt=""><figcaption></figcaption></figure>';
+  document.body.appendChild(box);
+  var img = box.querySelector('img'), cap = box.querySelector('figcaption');
+  function close() { box.classList.remove('open'); document.body.style.overflow = ''; }
+  links.forEach(function (a) {
+    a.addEventListener('click', function (ev) {
+      ev.preventDefault();
+      var thumb = a.querySelector('img');
+      img.src = a.getAttribute('href');
+      img.alt = thumb ? thumb.alt : '';
+      var c = a.parentNode.querySelector('figcaption');
+      cap.textContent = c ? c.textContent : '';
+      box.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    });
+  });
+  box.addEventListener('click', function (ev) { if (ev.target !== img) close(); });
+  document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape') close(); });
+})();
