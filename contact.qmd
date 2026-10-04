@@ -1,16 +1,25 @@
 ---
-title: "Contact"
-subtitle: "I welcome conversations about supply chain strategy, sourcing, and analytics."
+pagetitle: "Contact | Jenna DeRosa"
+page-layout: custom
 ---
 
-The best way to reach me is by email or LinkedIn. I am based in the Netherlands and work with teams and partners across time zones, so I am glad to arrange a call at a time that suits you.
+```{=html}
+<section class="page-head"><span class="blob b1"></span><span class="blob b2"></span><div class="wrap" style="position:relative">
+  <div class="kicker">Contact</div>
+  <h1 class="hero-title"><span class="line"><span>Let's <em>talk.</em></span></span></h1>
+  <p class="lead-text hero-sub">I welcome conversations about supply chain strategy, sourcing, and analytics. I am based in the Netherlands and work across time zones, so I am glad to arrange a call at a time that suits you.</p>
+</div></section>
 
-<i class="bi bi-envelope"></i> **Email:** [jennaderosa.ma@gmail.com](mailto:jennaderosa.ma@gmail.com)
-
-<i class="bi bi-linkedin"></i> **LinkedIn:** [linkedin.com/in/jenna-derosa](https://www.linkedin.com/in/jenna-derosa/)
-
-<i class="bi bi-github"></i> **GitHub:** [github.com/JennaDer](https://github.com/JennaDer)
-
-<i class="bi bi-geo-alt"></i> **Location:** The Netherlands
-
-[Send me an email](mailto:jennaderosa.ma@gmail.com){.btn .btn-primary}
+<section><div class="wrap contact-grid">
+  <div class="reveal">
+    <div class="contact-rows">
+      <a class="contact-row" href="mailto:jennaderosa.ma@gmail.com"><span class="lab">Email</span><span class="val">jennaderosa.ma@gmail.com</span><i class="bi bi-arrow-up-right"></i></a>
+      <a class="contact-row" href="https://www.linkedin.com/in/jenna-derosa/"><span class="lab">LinkedIn</span><span class="val">linkedin.com/in/jenna-derosa</span><i class="bi bi-arrow-up-right"></i></a>
+      <a class="contact-row" href="https://github.com/JennaDer"><span class="lab">GitHub</span><span class="val">github.com/JennaDer</span><i class="bi bi-arrow-up-right"></i></a>
+      <div class="contact-row"><span class="lab">Location</span><span class="val">The Netherlands</span><i class="bi bi-geo-alt"></i></div>
+    </div>
+    <p class="signoff">Groetjes, Jenna</p>
+  </div>
+  <div class="tulips reveal"><svg class="tulip small t-lilac" style="--td:0.1s" viewBox="0 0 60 122" aria-hidden="true"><path class="stem" pathLength="100" d="M30 118 V50 M30 98 l-14 -14 V72 M30 86 l12 -12 V64"/><circle class="via stem" cx="16" cy="70" r="3"/><circle class="via stem" cx="42" cy="62" r="3"/><circle class="via stem" cx="30" cy="118" r="3"/><path class="bloom" pathLength="100" d="M14 16 l8 10 l8 -14 l8 14 l8 -10 v20 l-9 13 h-14 l-9 -13 z"/></svg><svg class="tulip tall" style="--td:0.35s" viewBox="0 0 60 122" aria-hidden="true"><path class="stem" pathLength="100" d="M30 118 V50 M30 98 l-14 -14 V72 M30 86 l12 -12 V64"/><circle class="via stem" cx="16" cy="70" r="3"/><circle class="via stem" cx="42" cy="62" r="3"/><circle class="via stem" cx="30" cy="118" r="3"/><path class="bloom" pathLength="100" d="M14 16 l8 10 l8 -14 l8 14 l8 -10 v20 l-9 13 h-14 l-9 -13 z"/></svg><svg class="tulip t-orange" style="--td:0.6s" viewBox="0 0 60 122" aria-hidden="true"><path class="stem" pathLength="100" d="M30 118 V50 M30 98 l-14 -14 V72 M30 86 l12 -12 V64"/><circle class="via stem" cx="16" cy="70" r="3"/><circle class="via stem" cx="42" cy="62" r="3"/><circle class="via stem" cx="30" cy="118" r="3"/><path class="bloom" pathLength="100" d="M14 16 l8 10 l8 -14 l8 14 l8 -10 v20 l-9 13 h-14 l-9 -13 z"/></svg></div>
+</div></section>
+```

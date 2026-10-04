@@ -1,11 +1,13 @@
 project:
   type: website
+  resources:
+    - site.js
 
 website:
   title: "Jenna DeRosa"
   navbar:
     left:
-      - text: About You
+      - text: About Me
         href: index.qmd
       - text: Projects
         href: projects.qmd
@@ -13,9 +15,26 @@ website:
         href: cv.qmd
       - text: Contact
         href: contact.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jenna-derosa/
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/JennaDer
+        aria-label: GitHub
+  page-footer:
+    center: "Made with Quarto in the Netherlands · © 2026 Jenna DeRosa"
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - custom.scss
     css: styles.css
     toc: false
+    include-in-header:
+      text: |
+        <script>document.documentElement.classList.add('js');</script>
+    include-after-body:
+      text: |
+        <script src="site.js"></script>

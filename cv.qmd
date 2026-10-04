@@ -1,6 +1,7 @@
 ---
 title: "Jenna DeRosa"
 subtitle: "Global Distribution Sourcing Manager"
+format-links: false
 format:
   html: default
   typst:
@@ -28,7 +29,7 @@ Strategic sourcing manager with experience across semiconductor and electronics 
 
 **Global Distribution Sourcing Manager** | Netherlands
 
-- Own global distribution sourcing strategy for semiconductor and electronic components across all regions. 120M+ USD annual spend, 100+ global partners, 4 regional procurement groups.
+- Own distribution sourcing strategy across four regions (USA, Netherlands, Malaysia, China), managing a \$120M annual spend package.
 - Lead the design of a centralized distribution model consolidating four regional procurement groups into one function, capturing economies of scale and purchasing power.
 - Define the operating model behind centralization: sourcing processes, decision rights, and regional stakeholder alignment.
 - Manage strategic relationships with global distribution partners and negotiate global terms.
