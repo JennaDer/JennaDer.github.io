@@ -1,0 +1,16 @@
+---
+title: "Contact"
+subtitle: "I welcome conversations about supply chain strategy, sourcing, and analytics."
+---
+
+The best way to reach me is by email or LinkedIn. I am based in the Netherlands and work with teams and partners across time zones, so I am glad to arrange a call at a time that suits you.
+
+<i class="bi bi-envelope"></i> **Email:** [jennaderosa.ma@gmail.com](mailto:jennaderosa.ma@gmail.com)
+
+<i class="bi bi-linkedin"></i> **LinkedIn:** [linkedin.com/in/jenna-derosa](https://www.linkedin.com/in/jenna-derosa/)
+
+<i class="bi bi-github"></i> **GitHub:** [github.com/JennaDer](https://github.com/JennaDer)
+
+<i class="bi bi-geo-alt"></i> **Location:** The Netherlands
+
+[Send me an email](mailto:jennaderosa.ma@gmail.com){.btn .btn-primary}
