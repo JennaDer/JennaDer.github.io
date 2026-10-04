@@ -1,0 +1,68 @@
+---
+title: "Jenna DeRosa"
+subtitle: "Global Distribution Sourcing Manager"
+format:
+  html: default
+  typst:
+    output-file: Jenna_DeRosa_CV.pdf
+    papersize: us-letter
+    margin:
+      x: 0.7in
+      y: 0.5in
+    fontsize: 9.3pt
+---
+
+::: {.content-visible when-format="html"}
+[Download CV (PDF)](Jenna_DeRosa_CV.pdf){.btn .btn-primary}
+:::
+
+jennaderosa.ma@gmail.com | [linkedin.com/in/jenna-derosa](https://www.linkedin.com/in/jenna-derosa/) | [jennader.github.io](https://jennader.github.io)
+
+## Summary
+
+Strategic sourcing manager with experience across semiconductor and electronics distribution, covering global sourcing strategy, supplier negotiation, and procurement process design. Track record of delivering cost savings, managing high-spend distributor relationships, and building the data frameworks that support sourcing decisions. Completing a Master of Science in Supply Chain Management with a concentration in Data Analytics.
+
+## Experience
+
+### Prodrive Technologies | May 2023 – Present
+
+**Global Distribution Sourcing Manager** | Netherlands
+
+- Own global distribution sourcing strategy for semiconductor and electronic components across all regions. 120M+ USD annual spend, 100+ global partners, 4 regional procurement groups.
+- Lead the design of a centralized distribution model consolidating four regional procurement groups into one function, capturing economies of scale and purchasing power.
+- Define the operating model behind centralization: sourcing processes, decision rights, and regional stakeholder alignment.
+- Manage strategic relationships with global distribution partners and negotiate global terms.
+- Adapt sourcing strategy to AI-driven shifts in component availability, allocation, and pricing.
+- Assess the effect of trade policy, export controls, and tariffs on sourcing decisions and supplier selection.
+- Design sourcing KPIs grounded in how data moves through SAP and supplier systems, so reported performance reflects operations.
+
+**Category Manager** | Boston, MA
+
+- Managed more than $5 million in annual distribution spend, covering approximately 80% of US purchasing for production requirements.
+- Achieved 8% (approximately $1M) in bill-of-materials savings within three months of taking over the account, through demand forecasting, cost analysis, and negotiation.
+- Served as primary global contact for tariff impact analysis on semiconductors, raw materials, and end products; designed and maintained an HTS code database to evaluate current and projected tariff exposure.
+- Built data capture frameworks to support allocation strategy and analysis of cost, price erosion, and supplier performance.
+- Optimized $350K in uncategorized spend and eliminated 20 hours of manual work per week through cross-functional process improvements.
+- Led annual business reviews with suppliers, measuring performance against KPIs and negotiating improved terms.
+
+### Fusion Worldwide | September 2022 – May 2023
+
+**Buyer** | Boston, MA
+
+- Managed more than 100 vendor accounts and developed new supplier relationships to meet open-market demand during customer supply disruptions.
+- Analyzed supply trends for specific commodity groups through market research with global colleagues, suppliers, and manufacturers.
+- Sourced quotes for daily global customer demand and managed purchase orders, lead times, quality testing, and delivery schedules.
+
+## Education
+
+**Master of Science, Supply Chain Management, concentration in Data Analytics**\
+Boston University Metropolitan College | Expected December 2026
+
+**Bachelor of Science, Fashion Business Management, Magna Cum Laude**\
+Fashion Institute of Technology, State University of New York | December 2021
+
+## Skills
+
+**Systems and analytics:** SAP, Microsoft Excel (advanced), Power BI, Python, R, Quarto, data warehousing
+
+**Sourcing:** strategic sourcing, supplier negotiation, category management, tariff and trade compliance analysis, demand forecasting, process design
